@@ -25,11 +25,3 @@ NOTE: You can also use the `requirments.txt` file for Install the Project Depend
 ```sh
 uvicorn src.main:app --host 0.0.0.0 --port 8000
 ```
-
-## Architecture
-
-Find The Service Architecture ([Here](docs/architecture.md))
-
-## Deployment
-
-Find The Service Deployment Document ([Here](docs/deployment.md))
